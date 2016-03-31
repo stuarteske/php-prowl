@@ -1,6 +1,6 @@
 <?php
 ini_set("display_errors", "on");
-require "class.php-prowl.php";
+require "src/Stuarteske/Prowl.php";
 define("DEMO_EOL",isset($_SERVER['HTTP_USER_AGENT']) ? "<br />" : "\n");
 
 // Get a token on behalf of a user and then exchange it for an API key
