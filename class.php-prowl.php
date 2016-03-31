@@ -1,4 +1,6 @@
 <?php
+
+namespace Stuarteske\Prowl;
 /**
  * php-prowl
  *
